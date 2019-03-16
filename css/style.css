@@ -45,22 +45,22 @@ img {
 .row{
   margin:0 -15px;
 }
-.col-4-grid{
+.col-4-grid{                 /*příspěvky po 3 (PC) */
   width: 33.3333%;
   padding:15px;
   float: left;
 }
-@media(max-width:1130px){
+@media(max-width:1130px){   /* příspěvky po 2 (tablet) */
    .col-4-grid{
      width: 50%;
    }
 }
-@media(max-width:680px){
+@media(max-width:680px){    /* příspěvky pod sebou (telefon) */
    .col-4-grid{
      width: 100%;
    }
 }
-.item{
+.item{                     /* Nastavení "bloků"-NEHÝBAT */
   width: 100%;
   float:left;
   height: 400px;
@@ -81,16 +81,22 @@ img {
   transition:500ms;
   opacity: .2;
 }
-
+@media(min-width:680px){    /* po najetí kurzoru se příspěvek zabarví (pc, tablet) */
 .item:hover .front-end:before{
   opacity: 1;
 }
+}
+
+@media(min-width:680px){
 .item:hover .front-end .item-title{
   text-shadow:
   0px 0 5px rgba(0,0,0,.5),
   0px 0 5px rgba(255,255,255,.5);
   color: #fff;
+  }
 }
+
+
 .item .front-end{
   width: 100%;
   float: left;
@@ -103,20 +109,21 @@ img {
   max-height: 100%;
   min-width: 100%;
 }
-.item .front-end .item-title{
+.item .front-end .item-title{   /* text u příspěvků */
   position: absolute;
   bottom:0;
   padding-left:30px;
   padding-bottom:30px;
   width: 100%;
-  color: transparent;
+  color: #fff;
   font-weight: 700;
-  font-size: 14px;
-  text-shadow:
-  -5px 0 5px rgba(0,0,0,1),
-  5px 0 5px rgba(255,255,255,1);
+  font-size: 23px;
   transition:500ms;
 }
+
+
+
+
 .item .back-end{
   display: none;
 }
