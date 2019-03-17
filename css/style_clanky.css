@@ -21,13 +21,13 @@ body{
 }
 
 
-@media (min-width:380px){
+@media (min-width:650px){
   .okraje{
     padding: 0% 20% 0% 20% ;
         }
             }
 
-@media (max-width:600px){
+@media (max-width:650px){
   p{
     padding: 0% 3% 0% 3% ;
         }
