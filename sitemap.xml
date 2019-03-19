@@ -1,47 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+
+-<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<!--<guid value="c5fa51b7-e50e-4158-abe7-923d409dcf7d" />-->
+
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
 
 
-<url>
-  <loc>https://blogocestach.github.io/index.html</loc>
-  <lastmod>2019-03-17T15:31:49+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://blogocestach.github.io/clanky/kyrgyzstan.html</loc>
-  <lastmod>2019-03-17T15:31:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://blogocestach.github.io/clanky/malawi.html</loc>
-  <lastmod>2019-03-17T15:31:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://blogocestach.github.io/clanky/rusko.html</loc>
-  <lastmod>2019-03-17T15:31:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://blogocestach.github.io/clanky/gruzie.html</loc>
-  <lastmod>2019-03-17T15:31:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://blogocestach.github.io/clanky/albanie.html</loc>
-  <lastmod>2019-03-17T15:31:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://blogocestach.github.io/clanky/thajsko.html</loc>
-  <lastmod>2019-03-17T15:31:49+00:00</lastmod>
-  <priority>0.80</priority>
+-<url>
+
+<loc>https://blogocestach.github.io/</loc>
+
 </url>
 
+
+-<url>
+
+<loc>https://blogocestach.github.io/clanky/thajsko.html</loc>
+
+</url>
+
+
+-<url>
+
+<loc>https://blogocestach.github.io/clanky/albanie.html</loc>
+
+</url>
+
+
+-<url>
+
+<loc>https://blogocestach.github.io/clanky/rusko.html</loc>
+
+</url>
+
+
+-<url>
+
+<loc>https://blogocestach.github.io/clanky/malawi.html</loc>
+
+</url>
+
+
+-<url>
+
+<loc>https://blogocestach.github.io/clanky/gruzie.html</loc>
+
+</url>
+
+
+-<url>
+
+<loc>https://blogocestach.github.io/index.html</loc>
+
+</url>
+
+
+-<url>
+
+<loc>https://blogocestach.github.io/clanky/kyrgyzstan.html</loc>
+
+</url>
 
 </urlset>
